@@ -3,9 +3,9 @@
 
 # Sobre o projeto
 
-Este projeto é uma aplicação back end web realizada durante o curso completo de Java oferecido pela plataforma EAD Udemy.
+Este projeto é uma aplicação backend para web services realizada durante o curso completo de Java oferecido pela plataforma EAD Udemy.
 
-A aplicação consiste na implementação de um banco de dados relacional simulando o processo de compras de uma loja.
+A aplicação consiste na implementação de uma API REST dividida em camadas testada no banco de dados H2. Esta aplicação possui um CRUD completo para a entidade User respeitando a integridade do banco de dados, sendo assim só é possível deletar o User caso não existam outras entidades associadas a ele.   
 
 
 ## Modelo conceitual
